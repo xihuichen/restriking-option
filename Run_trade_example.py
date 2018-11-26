@@ -2,7 +2,7 @@
 """
 Created on Mon Oct  1 15:20:08 2018
 
-@author: lt54159
+
 """
 import os
 import sys
