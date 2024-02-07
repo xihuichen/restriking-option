@@ -1,5 +1,5 @@
 # restriking-option
-This tool is designed for calculating the counterparty risk exposure for a lot of non standard OTC derivatives, for example re-striking option, auto-calls, snow balls, digital options, contingent options
+This tool is designed for calculating the counterparty risk exposure for a lot of non standard OTC derivatives, for example re-striking option, auto-calls, snow balls, digital options, contingent options using monte carlo simulation. The brief introduction "mc on mc" means for path dependent derivatives, monte carlo on monte carlo is used to simulate the price evolution and calculate the exposure.
 For details of risk metrics calculated (Potential Future Exposure) see link:https://web.stanford.edu/~duffie/Chapter_09.pdf
 Structure of the tool:
 1. RNGenerator
